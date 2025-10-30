@@ -45,10 +45,10 @@ Landing page para um **Hotel estilo chalé**, com design acolhedor e foco na con
 
 ## 🧠 Tecnologias Utilizadas
 
-- **HTML5** – estrutura semântica e organizada  
-- **CSS3** – estilização moderna, animações e responsividade  
+- **HTML** – estrutura semântica e organizada  
+- **CSS** – estilização moderna e animações  
 - **JavaScript (opcional)** – para pequenas interações e navegação fluida  
-- **Flexbox / Grid Layout** – alinhamento e distribuição dos elementos  
+- **Bootstrap para estilizações e responsividade
 
 ---
 
